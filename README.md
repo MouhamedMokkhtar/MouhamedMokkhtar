@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mouhamedmokhtar&label=Profile%20views&color=0e75b6&style=flat" alt="mouhamedmokhtar" /> </p>
 
-- 🌱 I’m currently learning **Flutter , Dart**
+- 🌱 I’m currently working with **Flutter , Dart**
 
-- 💬 Ask me about **Android , Kotlin , Java**
+- 💬 Ask me about **Android , Kotlin , Java, Flutter, Dart **
 
 - 📫 How to reach me **mouhamed.mokhtar.oubaya@gmail.com**
 
