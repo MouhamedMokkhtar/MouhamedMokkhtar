@@ -1,21 +1,59 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
-<h1 align="center">Hi 👋, I'm Mouhamed Mokhtar Oubaya</h1>
-<h3 align="center">Currently engineering student, I am passionate about mobile development</h3>
-<img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/ExemplaryFairFeline-max-1mb.gif">
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mouhamedmokhtar&label=Profile%20views&color=0e75b6&style=flat" alt="mouhamedmokhtar" /> </p>
+# Hi, I'm Mouhamed Mokhtar Oubaya 👋
 
-- 🌱 I’m currently working with **Flutter , Dart**
+### Software Engineer · Mobile Specialist
 
-- 💬 Ask me about **Android , Kotlin , Java, Flutter, Dart **
+I build reliable, user-focused software, with deep experience in **Flutter**, **React Native**, and **native Android** development.
 
-- 📫 How to reach me **mouhamed.mokhtar.oubaya@gmail.com**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mouhamed-mokhtar-oubaya)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mouhamed.mokhtar.oubaya@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MouhamedMokkhtar)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mouhamed-mokhtar-oubaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/mouhamed-mokhtar-oubaya" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/17001076" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17001076" height="30" width="40" /></a>
-</p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## About me
+
+- 📱 My strongest area is mobile engineering: cross-platform apps with **Flutter/Dart** and **React Native**, plus native Android apps with **Kotlin/Java**.
+- 🧩 I care about clean architecture, maintainable code, intuitive user experiences, API integration, and reliable state management.
+- 🌐 Beyond mobile, I can contribute across frontend and backend development with technologies such as **React**, **JavaScript/TypeScript**, **Java/Spring**, and **Firebase**.
+- 🤝 I adapt quickly, enjoy solving real product problems, and work well across the full software-development lifecycle.
+- 🔎 I am open to **mobile, frontend, backend, and full-stack software engineering opportunities**.
+
+## Core technologies
+
+### Mobile
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
+### Web, backend & tools
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+## Selected projects
+
+| Project | What it demonstrates | Stack |
+| --- | --- | --- |
+| [University Ranking](https://github.com/MouhamedMokkhtar/UniversityRanking) | A global university-ranking app structured with Clean Architecture and BLoC state management | Flutter, Dart |
+| [My Class](https://github.com/MouhamedMokkhtar/My-Class) | A mobile app that helps students organize courses, form study groups, and communicate with classmates | Android, Kotlin |
+| [Memory Game](https://github.com/MouhamedMokkhtar/Memory-Game) | A customizable native mobile memory game that users can create and share | Android, Kotlin |
+| [Crypto Price Tracker](https://github.com/MouhamedMokkhtar/Crypto-Price-Tracker-App) | A web app for tracking cryptocurrency prices using Coinbase data | JavaScript |
+
+## Let's connect
+
+I’m interested in software engineering opportunities where I can build useful products, learn quickly, and contribute to a strong team.
+
+- [LinkedIn](https://www.linkedin.com/in/mouhamed-mokhtar-oubaya)
+- [Email](mailto:mouhamed.mokhtar.oubaya@gmail.com)
+- [Stack Overflow](https://stackoverflow.com/users/17001076)
